@@ -7,6 +7,9 @@ contributor:
     deathdate: 1958
     gutenberg_agent_id: '53777'
     url: http://www.gutenberg.org/2009/agents/53777
+covers:
+- cover_type: archival
+  image_path: 66372-h/images/cover.jpg
 creator:
   author:
     agent_name: Benson, Alpha Banta
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '53776'
     url: http://www.gutenberg.org/2009/agents/53776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66372#Daffydowndilly-and-the-Golden-Touch
 gutenberg_issued: '2021-09-25'
 identifiers:
   gutenberg: '66372'
